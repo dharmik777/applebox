@@ -1,0 +1,18 @@
+.nav-tabs {
+    background-color: rgb(105, 38, 144);
+    
+}
+
+.nav-item {
+    margin-inline-end: auto;
+    margin-left: auto;
+    background-color: rgb(105, 38, 144);
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+}
+.nav-link:hover{
+    color: rgb(105, 38, 144)
+
+}
