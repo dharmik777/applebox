@@ -4,8 +4,6 @@ import React from "react";
 function Home() {
   return (
     <div className = "home">
-       <h1 className ="hi">Hi!</h1>
-       <br></br>
        <h1 className = "welcome">Dharmik Patel</h1> 
       <div className = "home">
           <h1 >About Me</h1>
